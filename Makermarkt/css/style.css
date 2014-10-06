@@ -398,17 +398,20 @@ a:focus {outline:none;}
 
 .featureIcon {
 	float:left;
-	width:61px;
-	height:61px;
+	width:100px;
+	height:100px;
 	margin:13px 20px 150px 0px;
 }
 
+/* Put images in like this:
 #addUserIcon { background-image: url('../images/stock/shutterstock_177239969.jpg'); }
-#cloudIcon { background-image: url('../images/icons/cloudIcon.png'); }
-#gearIcon { background-image: url('../images/icons/gearIcon.png'); }
-#uploadIcon { background-image: url('../images/icons/uploadIcon.png'); }
-#messageIcon { background-image: url('../images/icons/messageIcon.png'); }
-#connectIcon { background-image: url('../images/icons/connectIcon.png'); }
+ */
+#addUserIcon { background-image: none; background-color: #cccccc; }
+#cloudIcon { background-image: none; background-color: #cccccc; }
+#gearIcon { background-image: none; background-color: #cccccc; }
+#uploadIcon { background-image: none; background-color: #cccccc; }
+#messageIcon { background-image: none; background-color: #cccccc; }
+#connectIcon { background-image: none; background-color: #cccccc; }
 
 .col-lg-4.featureItem:hover {
 	animation-duration: 0.25s;
