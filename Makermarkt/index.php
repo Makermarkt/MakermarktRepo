@@ -161,8 +161,8 @@ if(isset($_POST['submitted'])) {
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
-            <h2>Vertex will allow you to <span>connect, interact</span> and <span>share</span> in a whole new way</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras amet rhoncus tortor. Phasellus in auctor tellus. Pellentesque laoreet, eros at, iaculis massa. </p>
+            <h2>Products designed just for you</h2>
+            <p>Makermarkt connects you with product designers and 3D printers all over the world to offer you the unique opportunity of purchasing amazing products designed and made just for you at an affordable price.</p>
           </div>
         </div>
       </div><!-- END container -->
@@ -172,44 +172,44 @@ if(isset($_POST['submitted'])) {
     <a class="anchor" id="featuresAnchor"></a>
     <section id="features">
       <div class="container">
-        <div class="row"><div class="col-lg-12"><h3>Features</h3></div><div class="col-lg-12"><img class="dividerWide" src="images/divider.png" alt=""></div></div>
+        <div class="row"><div class="col-lg-12"><h3>Product Categories</h3></div><div class="col-lg-12"><img class="dividerWide" src="images/divider.png" alt=""></div></div>
         <div class="row">
           <div class="col-lg-4 featureItem">
             <div class="featureIcon" id="addUserIcon"></div>
-            <h4>Share &amp; Connect</h4>
-            <p>Lorem ipsum dolor sit quis amet, consectetur adipiscing elit. Aenean leo lectus sollicitudin convallis quis eget libero. Aliquam laoreet tellus ut libero semper, egestas velit malesuada.  </p>
+            <h4>Jewelry</h4>
+            <p>Let your personality shine with personalized jewelry.</p>
             <p><a class="btn btn-default" href="#">View details &raquo;</a></p>
           </div>
           <div class="col-lg-4 featureItem">
             <div class="featureIcon" id="cloudIcon"></div>
-            <h4>Access Date Anywhere</h4>
-            <p>Lorem ipsum dolor sit quis amet, consectetur adipiscing elit. Aenean leo lectus sollicitudin convallis quis eget libero. Aliquam laoreet tellus ut libero semper, egestas velit malesuada.  </p>
+            <h4>Toys &amp; Games</h4>
+            <p>Have more fun with more personal toys and games.</p>
             <p><a class="btn btn-default" href="#">View details &raquo;</a></p>
          </div>
           <div class="col-lg-4 featureItem">
             <div class="featureIcon" id="gearIcon"></div>
-            <h4>Customize Your Profile</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quis leo lectus sollicitudin convallis quis eget libero. Aliquam laoreet tellus ut libero semper, egestas velit malesuada.  </p>
+            <h4>Fashion Accessories</h4>
+            <p>All kinds of accessories tailored for your daily life.</p>
             <p><a class="btn btn-default" href="#">View details &raquo;</a></p>
           </div>
         </div><!-- END Row -->
         <div class="row">
           <div class="col-lg-4 featureItem">
             <div class="featureIcon" id="uploadIcon"></div>
-            <h4>Quick &amp; Easy File Upload</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quis leo lectus sollicitudin convallis quis eget libero. Aliquam laoreet tellus ut libero semper, egestas velit malesuada.  </p>
+            <h4>Art &amp; Sculptures</h4>
+            <p>Beautiful art sculptures that resonate with your taste.</p>
             <p><a class="btn btn-default" href="#">View details &raquo;</a></p>
           </div>
           <div class="col-lg-4 featureItem">
             <div class="featureIcon" id="messageIcon"></div>
-            <h4>Interactive Chat</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quis leo lectus sollicitudin convallis quis eget libero. Aliquam laoreet tellus ut libero semper, egestas velit malesuada.  </p>
+            <h4>Home Decoration</h4>
+            <p>Feel more comfortable at home with decoration you love.</p>
             <p><a class="btn btn-default" href="#">View details &raquo;</a></p>
           </div>
           <div class="col-lg-4 featureItem">
             <div class="featureIcon" id="connectIcon"></div>
-            <h4>Growing Community</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quis leo lectus sollicitudin convallis quis eget libero. Aliquam laoreet tellus ut libero semper, egestas velit malesuada.  </p>
+            <h4>Prototypes &amp; Tools</h4>
+            <p>Tooling, molds, prototypes and anything needed for industrial and medical applications.</p>
             <p><a class="btn btn-default" href="#">View details &raquo;</a></p>
           </div>
         </div><!-- END Row -->
