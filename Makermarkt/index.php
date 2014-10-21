@@ -283,57 +283,57 @@ if(isset($_POST['submitted'])) {
         <div class="row"><div class="col-lg-12"><h3>How It Works</h3></div><div class="col-lg-12"><img class="dividerWide" src="images/divider.png" alt=""></div></div>
         <div class="row">
           <div class="col-lg-6 howItWorksGraphic">
-            <img class="iphoneSmall" src="images/iphoneMagnify.png" alt="iphone" />
+            <img class="iphoneSmall" src="images/stock/shutterstock_144275518.jpg" alt="iphone" length=350px height=280px/>
             <img class="dividerHalf" src="images/dividerHalf.png" alt="divider" />
           </div>
           <div class="col-lg-6">
-            <h4>Upload your files. <span>Anywhere, anytime.</span></h4><br/>
-            <p>Lorem ipsum dolor amet, consectetur adipiscing elit. Aenean leo lectus sollicitudin 
-            convallis quis eget libero. Aliquam laoreet tellus ut libero semper, egestas velit 
-            malesuada. Sed non risus eget dolor vestibulum ullamcorper. Integer feugiat at 
-            massa sit amet molestie. Fusce varius tincidunt metus ac accumsan. Sed varius 
-            pharetra risus ac scelerisque. Nulla facilisi. Nulla facilisi. Vivamus metus lorem, 
-            pellentesque a accumsan quis, imperdiet nec quam. Sed non risus eget dolor 
-            vestibulum ullamcorper. Integer feugiat at massa sit amet molestie. Fusce varius 
-            tincidunt metus ac accumsan.</p>
+            <h4>Tell us <span>what you want.</span></h4><br/>
+            <p>Fill out a simple form to tell us your personalized product ideas. Makermarkt will create a competition and send it to designers and makers all over the world.</p>
           </div>
         </div><!-- END Row -->
         <div class="transition1"></div>
         <div class="row">
           <div class="col-lg-6">
-            <h4>Share with a <span>growing community.</span></h4><br/>
-            <p>Lorem ipsum dolor amet, consectetur adipiscing elit. Aenean leo lectus sollicitudin 
-            convallis quis eget libero. Aliquam laoreet tellus ut libero semper, egestas velit 
-            malesuada. Sed non risus eget dolor vestibulum ullamcorper. Integer feugiat at 
-            massa sit amet molestie. Fusce varius tincidunt metus ac accumsan. Sed varius 
-            pharetra risus ac scelerisque. Nulla facilisi. Nulla facilisi. Vivamus metus lorem, 
-            pellentesque a accumsan quis, imperdiet nec quam. Sed non risus eget dolor 
-            vestibulum ullamcorper. Integer feugiat at massa sit amet molestie. Fusce varius 
-            tincidunt metus ac accumsan.</p>
+            <h4><span>Pick a designer </span>for your personalized product.</h4><br/>
+            <p>Our community of designers will view your competition and share with you their ideas for your product. View their design portfolios and choose the best designer.</p>
           </div>
           <div class="col-lg-6 howItWorksGraphic">
-            <img class="iphoneSmall" src="images/iphoneMagnify.png" alt="iphone" />
+            <img class="iphoneSmall" src="images/stock/shutterstock_168161747.jpg" alt="iphone" length=350px height=280px/>
             <img class="dividerHalf" src="images/dividerHalf.png" alt="divider" />
           </div>
         </div><!-- END Row -->
         <div class="transition2"></div>
         <div class="row">
           <div class="col-lg-6 howItWorksGraphic">
-            <img class="iphoneSmall" src="images/iphoneMagnify.png" alt="iphone" />
+            <img class="iphoneSmall" src="images/stock/shutterstock_167076200.jpg" alt="iphone" length=350px height=280px/>
             <img class="dividerHalf" src="images/dividerHalf.png" alt="divider" />
           </div>
           <div class="col-lg-6">
-            <h4><span>Follow</span> your favorite people.</h4><br/>
-            <p>Lorem ipsum dolor amet, consectetur adipiscing elit. Aenean leo lectus sollicitudin 
-            convallis quis eget libero. Aliquam laoreet tellus ut libero semper, egestas velit 
-            malesuada. Sed non risus eget dolor vestibulum ullamcorper. Integer feugiat at 
-            massa sit amet molestie. Fusce varius tincidunt metus ac accumsan. Sed varius 
-            pharetra risus ac scelerisque. Nulla facilisi. Nulla facilisi. Vivamus metus lorem, 
-            pellentesque a accumsan quis, imperdiet nec quam. Sed non risus eget dolor 
-            vestibulum ullamcorper. Integer feugiat at massa sit amet molestie. Fusce varius 
-            tincidunt metus ac accumsan.</p>
+            <h4><span>Pick where to 3D print</span> your personalized product.</h4><br/>
+            <p>Makermarkt will show you a list of the available 3D printers near you. Check their maker profiles and pick a printer that meets your needs.</p>
           </div>
         </div><!-- END Row -->
+        <div class="transition1"></div>
+        <div class="row">
+          <div class="col-lg-6">
+            <h4><span>Validate the design </span>of your personalized product.</h4><br/>
+            <p>Makermarkt will notify you when your designer submits a 3D model of your product, review it and validate that it is just what you had imagined.</p>
+          </div>
+          <div class="col-lg-6 howItWorksGraphic">
+            <img class="iphoneSmall" src="images/stock/shutterstock_142536034.jpg" alt="iphone" length=350px height=280px/>
+            <img class="dividerHalf" src="images/dividerHalf.png" alt="divider" />
+          </div>
+        </div><!-- END Row -->
+        <div class="transition2"></div>
+        <div class="row">
+          <div class="col-lg-6 howItWorksGraphic">
+            <img class="iphoneSmall" src="images/stock/shutterstock_149083385.jpg" alt="iphone" length=350px height=280px/>
+            <img class="dividerHalf" src="images/dividerHalf.png" alt="divider" />
+          </div>
+          <div class="col-lg-6">
+            <h4>Get your personalized product <span>by mail.</span></h4><br/>
+            <p>Your personalized product is 3D printed and mailed to your doorstep.</p>
+          </div>
       </div><!-- END Container -->
     </section><!-- END How It Works -->
 
