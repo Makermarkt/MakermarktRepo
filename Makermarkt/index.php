@@ -86,7 +86,7 @@ if(isset($_POST['submitted'])) {
           		<a class="navbar-brand" href="#"></a>
         	</div>
         	<div class="navbar-collapse collapse">
-          		<ul class="nav navbar-nav navbar-right">
+          		<ul class="nav navbar-nav navbar-right" style="display:none;">
             		<li class="current"><a href="#sliderAnchor">Home</a></li>
             		<li><a href="#featuresAnchor">Features</a></li>
             		<li><a href="#screenshotsAnchor">Screenshots</a></li>

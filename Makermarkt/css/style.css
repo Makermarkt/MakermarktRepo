@@ -171,13 +171,16 @@ a:focus {outline:none;}
 .navbar.navbar-default.navbar-fixed-top .navbar-header { margin-left:15px;}
 
 .navbar-brand {
-	background-image: url('../images/logo.png');
+	/*background-image: url('../images/logo.png');*/
+	/*background-image: url('../images/makermarkt.png');*/
+	background-image: none; background-color: #cccccc;
+	
 	background-repeat:no-repeat;
 	margin-top:13px;
 	display:block;
 	margin-left:20px;
 	padding-left:0px;
-	width:153px;
+	width:250px;
 }
 
 .nav.navbar-nav.navbar-right li.current a {
