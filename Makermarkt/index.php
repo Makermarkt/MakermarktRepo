@@ -219,7 +219,7 @@ if(isset($_POST['submitted'])) {
     <!-- Start Screenshots -->
     <a class="anchor" id="screenshotsAnchor"></a>
     <section id="screenshots">
-      <div class="container">
+      <div class="container" style="display:none;">
         <div class="row"><div class="col-lg-12"><h3>Screenshots</h3></div><div class="col-lg-12"><img class="dividerWide" src="images/divider.png" alt=""></div></div>
         <div class="row">
           <div class="col-lg-3">
@@ -260,7 +260,7 @@ if(isset($_POST['submitted'])) {
 
     <!-- Start Promo box -->
     <section id="promoBox">
-      <div class="container">
+      <div class="container" style="display:none;">
         <div class="row">
           <div class="col-lg-6">
             <h4>Try out the <span>free trial</span> today.</h4>
@@ -340,7 +340,7 @@ if(isset($_POST['submitted'])) {
     <!-- Start Pricing -->
     <a class="anchor" id="pricingAnchor"></a>
     <section id="pricing">
-      <div class="container">
+      <div class="container" style="display:none;">
         <div class="row"><div class="col-lg-12"><h3>Pricing Options</h3></div><div class="col-lg-12"><img class="dividerWide" src="images/divider.png" alt=""></div></div>
           <div class="row">
 
@@ -398,7 +398,7 @@ if(isset($_POST['submitted'])) {
 
     <!-- Start Testimonials -->
     <section id="testimonials">
-      <div class="container">
+      <div class="container" style="display:none;">
         <div class="row">
           <ul class="slides2">
             <li>
@@ -433,7 +433,7 @@ if(isset($_POST['submitted'])) {
     <!-- Start faq-->
     <section id="faq">
       <a class="anchor" id="faqAnchor"></a>
-      <div class="container">
+      <div class="container" style="display:none;">
         <div class="row"><div class="col-lg-12"><h3>Faq</h3></div><div class="col-lg-12"><img class="dividerWide" src="images/divider.png" alt=""></div></div>
           <div class="row">
             <div class="col-lg-4">
@@ -493,7 +493,7 @@ if(isset($_POST['submitted'])) {
     <!-- Start Our Team -->
     <section id="ourTeam">
       <a class="anchor" id="ourTeamAnchor"></a>
-      <div class="container">
+      <div class="container" style="display:none;">
         <div class="row"><div class="col-lg-12"><h3>Our Team</h3></div><div class="col-lg-12"><img class="dividerWide" src="images/divider.png" alt=""></div></div>
         <div class="row">
           <div class="col-lg-6 teamMemberInfo">
